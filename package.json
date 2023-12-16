@@ -89,5 +89,8 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "@zxing/library": "^0.20.0"
   }
 }
