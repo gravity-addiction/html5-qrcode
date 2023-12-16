@@ -10,7 +10,8 @@
  * http://www.denso-wave.com/qrcode/faqpatent-e.html
  */
 
-import * as ZXing from "../third_party/zxing-js.umd";
+// import * as ZXing from "../third_party/zxing-js.umd";
+import * as ZXing from "@zxing/library";
 
 import {
     QrcodeResult,
