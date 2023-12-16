@@ -1,4 +1,5 @@
-import * as ZXing from "./zxing-js.umd";
+// import * as ZXing from "./zxing-js.umd";
+import * as ZXing from '@zxing/library';
 
 declare class HTMLCanvasElementLuminanceSource {
     constructor(canvas: HTMLCanvasElement);
